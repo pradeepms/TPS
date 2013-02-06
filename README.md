@@ -9,7 +9,7 @@ save it to SD card for future use.
 
 
 ## Screen Shots
-![Alt text](http://pradeepms.do.am/GitHub-Images/TPS-Main-UI-1.png "Main UI")
+![Alt text](http://pradeepms.do.am/GitHub-Images/TPS-MainUI-1.png "Main UI")
 ![Alt text](http://pradeepms.do.am/GitHub-Images/TPS-UI-2.png "Color Chooser")
 ![Alt text](http://pradeepms.do.am/GitHub-Images/TPS-UI-3.png "Share and Save option")
 
