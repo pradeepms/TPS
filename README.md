@@ -3,8 +3,10 @@
 
 ###(Type Print and Share)
 ##Description:
-As the name suggest, it takes input from the user and generates image (photo) of it. 
-It also helps to share that image with other app such as Facebook, Gmail, and Messaging etc...
+As the name suggest, it takes input from the user and generates image (photo) from EditText. 
+It also helps user to share that image with other app such as Facebook, Gmail, and Messaging... etc and also 
+save it to SD card for future use.
+
 
 ## Screen Shots
 ![Alt text](http://pradeepms.do.am/GitHub-Images/TPS-Main-UI-1.png "Main UI")
